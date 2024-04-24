@@ -1,0 +1,35 @@
+.row button{
+    background-color: black;
+    color: white;
+    width: 75px;
+    gap: 6px;
+    padding: 5px;
+    border-radius: 6px;
+}
+/* .row button .eql{ */
+    /* background-color: aquamarine;
+
+} */
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    align-items: center;
+}
+.calculator{
+    width: 300px;
+    height: 200px;
+    /* border: 1px solid; */
+}
+.display{
+    background-color: black;
+    padding: auto;
+    color: white;
+    padding: 5px;
+
+}
+.row .eql{ 
+    background-color: blue;
+    padding: 100px;
+} 
